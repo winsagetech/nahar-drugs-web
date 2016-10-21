@@ -3,11 +3,11 @@
         <!-- Footer -->
 		<div class="navbar navbar-inverse">
 			<div class="container">				
-				<p class="navbar-text pull-left">Powered by AppZingo Team</p>
+				<p class="navbar-text pull-left">Powered by <a href="https://www.winsagetech.com">Winsage Technologies Pvt Ltd</a></p>
 				<p class="navbar-text pull-right">
 					<ul class="list-unstyled list-inline list-social-icons pull-right navbar-text">
 						<li>
-							<a href="https://www.facebook.com/MahaveerSalesCorporation">Subscribe to our updates on: <i class="fa fa-facebook-square fa-2x"></i></a>
+							<a href="https://www.facebook.com/NaharDrugs">Subscribe to our updates on: <i class="fa fa-facebook-square fa-2x"></i></a>
 						</li>
 						<!--
 						<li>

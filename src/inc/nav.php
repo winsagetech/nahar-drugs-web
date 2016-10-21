@@ -48,9 +48,6 @@
                         <a href="services.php">Services</a>
                     </li> 
                     <li>
-		                <a href="presence.php">Our Presence</a>
-		            </li>					
-                    <li>
 		            	<a href="testimonials.php">Testimonials</a>
 		            </li>  
 		            <li class="dropdown">
@@ -67,9 +64,6 @@
                     <li>
                         <a href="career.php">Career</a>
                     </li>
-                    <li>
-                        <a href="login.php">Login</a>
-                    </li>                   
 					<li>
                         <a href="contact.php">Contact</a>
                     </li>
