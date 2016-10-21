@@ -31,7 +31,7 @@
             <div class="col-md-6">
                 <h2>Nahar Drug
                 <small>The Company</small></h2>
-                <p>Nahar Drug is amongst one of the fastest emerging pharmaceutical organizations of repute from India and has attained an iconic stature in pharmaceutical arena making the lives of millions of people feel good. We emerged to become the premier Pharmaceutical distributor in Bangalore by virtue of its excellent distribution network in the city catering to top Indian and Multinational companies across the country. <br>
+                <p>Nahar Drug is amongst one of the fastest emerging pharmaceutical organizations of repute from India and has attained an iconic stature in pharmaceutical arena making the lives of millions of people feel good. We emerged to become the premier Pharmaceutical distributor in Bhilwara, Rajasthan by virtue of its excellent distribution network in the city catering to top Indian and Multinational companies across the country. <br>
 				Along with strategically prominent marketing nodes the world over, Nahar Drug gives the edge to be self-sustained in effectively delivering our vast range of products across various geographies in Rajasthan. It also serves to fulfil our commitment to deliver "beyond the maxim of care".
 </p>
             </div>
@@ -83,11 +83,13 @@
             </div>
         </div>
 		<br/>
+        <!--
         <div class="row">
         	<div class="col-sm-offset-8 col-md-offset-10 col-xs-offset-6 col-md-2 col-sm-4 col-xs-6">
         		<a href="companies.php" class="btn btn-primary">And More...</a>
         	</div>
         </div>
+        -->
         <!-- row -->
         <br />
         <br />
@@ -134,7 +136,7 @@
 		 <article class='modal three modal-sm'>
 		 <date>Year 2000-14</date>
 		 <h2>Transition @ Nahar Drug!</h2>
-		   <p>During their transition from a start-up in year 2000, to one of the top companies in their field, they traded with pharma companies, supplying medicines throughout the Bangalore, & partener with various institutions.</p>
+		   <p>During their transition from a start-up in year 2000, to one of the top companies in their field, they traded with pharma companies, supplying medicines throughout the Bhilwara, Rajasthan, & partener with various institutions.</p>
 		 </article>
 		-->
 
@@ -187,7 +189,7 @@
                         	 globe, and build and maintain solid partnerships with our Principals.
                         	 <ul>
                         	 	<li>
-        							To make available quality medicines of reputed companies to the masses of Bangalore Pharma Retail and hospital industry.
+        							To make available quality medicines of reputed companies to the masses of Bhilwara, Rajasthan Pharma Retail and hospital industry.
                         	 	</li>
                         	 	<li>
 									To provide quality services to the medical fraternity by making information on drugs available.                        	 		

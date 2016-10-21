@@ -69,7 +69,7 @@
                     Welcome to Nahar Drug
                 </h1>
                 <p>
-                	Esteemed in 2000, we at "Nahar Drug" are committed to make life "Feel Good" with our range of healthcare products. Now bloomed into a fully fledged leading pharmaceutical trading across Karnataka and India.
+                	Esteemed in 2000, we at "Nahar Drug" are committed to make life "Feel Good" with our range of healthcare products. Now bloomed into a fully fledged leading pharmaceutical trading across Rajasthan and India.
                 </p>
             </div>
             <div class="col-md-4">
@@ -78,7 +78,7 @@
                         <h4><i class="fa fa-fw fa-bank"></i> The Company</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Nahar Drug is amongst one of the fastest emerging pharmaceutical organizations of repute from India and has attained an iconic stature in pharmaceutical arena making the lives of millions of people feel good. We emerged to become the premier Pharmaceutical distributor in Bangalore by virtue of its excellent distribution network in the city 
+                        <p>Nahar Drug is amongst one of the fastest emerging pharmaceutical organizations of repute from India and has attained an iconic stature in pharmaceutical arena making the lives of millions of people feel good. We emerged to become the premier Pharmaceutical distributor in Bhilwara by virtue of its excellent distribution network in the city 
                         </p>
                         <a href="about.php" class="btn btn-success">Learn More</a>
                     </div>
@@ -90,7 +90,7 @@
                         <h4><i class="fa fa-fw fa-medkit"></i> One Stop Solution</h4>
                     </div>
                     <div class="panel-body">
-                        <p>MSC provides range of services, direct and indirect, to it's clients. These include 
+                        <p>Nahar Drug provides range of services, direct and indirect, to it's clients. These include 
                         	Understanding clients business, requirements, order management from procurement to delivery. 
                         	A dedicated research team, to keep you updated about the latest happenings in the 
                         	field of pharmacy. All this under one roof.                        	
@@ -163,11 +163,13 @@
             </div>
         </div>
 		<br/>
+        <!--
         <div class="row">
         	<div class="col-sm-offset-8 col-md-offset-10 col-xs-offset-6 col-md-2 col-sm-4 col-xs-6">
         		<a href="companies.php" class="btn btn-primary">And More...</a>
         	</div>
         </div>
+        -->
         <!-- /.row -->
         
 	<?php

@@ -29,7 +29,7 @@
                 <!-- Embedded Google Map -->
                 <!--iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
 				-->
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15556.360361858502!2d77.4715659754544!3d12.901928318132134!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae47b8ff5fa2ef%3A0xf51f6010a456e3df!2sMysore+Rd%2C+Bengaluru%2C+Karnataka!5e0!3m2!1sen!2sin!4v1411148575389" width="100%" height="450px" frameborder="0" style="border:0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.72472469894!2d74.63844852456141!3d25.347016643866255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3968c24b271a61c7%3A0x9ddf891f1b135f6d!2sSeva+Sadan+School!5e0!3m2!1sen!2sin!4v1477009301816" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <!-- Contact Details Column 
 				Nahar Drug
@@ -45,11 +45,11 @@
                 <p><i class="fa fa-phone"></i> 
                     <abbr title="Phone">P</abbr>: (01482) 222877, (+91) 946238972</p>
                 <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">E</abbr>: <a href="mailto:info@mahaveersales.com">info@nahardrug.com</a>
+                    <abbr title="Email">E</abbr>: <a href="mailto:info@nahardrugs.com">info@nahardrugs.com</a>
                 </p>                
                 <ul class="list-unstyled list-inline list-social-icons">
                     <li>
-                        <a href="https://www.facebook.com/MahaveerSalesCorporation">Like us: <i class="fa fa-facebook-square fa-2x"></i></a>
+                        <a href="https://www.facebook.com/NaharDrugs">Like us: <i class="fa fa-facebook-square fa-2x"></i></a>
                     </li>
                     <!--
                     <li>

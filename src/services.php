@@ -119,8 +119,8 @@
                 <h2 class="page-header">Quality Of Service</h2>
                 	<p>Every Indian has a right to safe, high quality and affordable health and human services when they need them.</p>
 					<p>We work to deliver efficient and effective health and human services, and aim to put our clients at the centre of every decision.</p>
-					<p>We adapt a territory specific marketing approach, a mix of our own marketing and collaboration with other leading pharmaceutical companies in the selected markets to leverage upon our strong and dynamic product basket. Mahaveer has registered presence in more than 1000 places across Karnataka and growing.</p>
-					<p>Mahaveer sturdy sales force of 100 member team covering the retailers, Salesmen are well informed about day to day updates about new products and schemes, product availability and various information for them to update the customers.</p>
+					<p>We adapt a territory specific marketing approach, a mix of our own marketing and collaboration with other leading pharmaceutical companies in the selected markets to leverage upon our strong and dynamic product basket. Nahar Drug has registered presence in more than 1000 places across Karnataka and growing.</p>
+					<p>Nahar Drug sturdy sales force of 100 member team covering the retailers, Salesmen are well informed about day to day updates about new products and schemes, product availability and various information for them to update the customers.</p>
 
             </div>
 			

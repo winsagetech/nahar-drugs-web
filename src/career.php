@@ -102,7 +102,7 @@ include_once("inc/header.php");
 
 <div class="row">
     <div class="col-lg-12">
-        <h2 class="page-header">Apply <small>At Mahaveer</small></h2>
+        <h2 class="page-header">Apply <small>At Nahar Drug</small></h2>
         <p>This information will help us contact you and will be searchable in addition to the information on your attached Word resume. </p>
     </div>
 
