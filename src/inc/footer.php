@@ -23,6 +23,9 @@
 					</ul>
 				</p>							
 			</div>
+			<div class = "container">
+				<p class="navbar-text pull-left"><a href="login.php">Admin Login</a></p>
+			</div>
 		</div>
 
     </div>

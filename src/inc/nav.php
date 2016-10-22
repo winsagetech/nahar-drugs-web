@@ -54,13 +54,16 @@
                         <a href="companies.php" class="dropdown-toggle" data-toggle="dropdown">Information<b class="caret"></b></a>
 						<ul class="dropdown-menu">
                             <li>
+                                <a href="login.php">Clients List</a>
+                            </li>
+                            <li>
                                 <a href="companies.php">Companies List</a>
                             </li>
                             <li>
-                                <a href="newItems.php">New Items List</a>
+                                <a href="products.php">Products List</a>
                             </li>
 						</ul>
-                    </li>                
+                    </li> 
                     <li>
                         <a href="career.php">Career</a>
                     </li>
