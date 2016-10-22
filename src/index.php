@@ -122,29 +122,55 @@
             <div class="col-lg-12">
                 <h2 class="page-header">Our Associates </h2>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/abbott.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/alkem.jpg" alt="">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
+             <div class="col-md-2 col-sm-4 col-xs-6">
+                 <img class="img-responsive img-thumbnail" src="images/associates/biochem.gif" alt="">
+            </div>
+             <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/Cadila.jpg" alt="">
+            </div>
+             <div class="col-md-2 col-sm-4 col-xs-6">
+                 <img class="img-responsive img-thumbnail" src="images/associates/CareFormulationLabs.png" alt="">
+            </div>
+             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/cipla.jpg" alt="">
+            </div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/concept.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/fruiton.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/galpha.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/gemmankind.png" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/glenmark.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/microlabs.png" alt="">
+                 <img class="img-responsive img-thumbnail" src="images/associates/Intas.jpg" alt="">
+            </div>
+         </div>
+        <br/>
+          <div class="row">
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/laborate.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/ranbaxy.jpg" alt="">
-            </div>
-        </div>
-		<br/>
-        <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/dr_reddy_labs.jpg" alt="">
+                <img class="img-responsive img-thumbnail" src="images/associates/leaford.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/lupin.jpeg" alt="">
@@ -153,16 +179,55 @@
                 <img class="img-responsive img-thumbnail" src="images/associates/mankind.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/novartis-logo.jpg" alt="">
+                <img class="img-responsive img-thumbnail" src="images/associates/medley.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/sunp-harma-logo.png" alt="">
+                <img class="img-responsive img-thumbnail" src="images/associates/microlabs.png" alt="">
+            </div>
+            </div>
+        <br/>
+          <div class="row">
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/morepen.png" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/zydus.png" alt="">
+                <img class="img-responsive img-thumbnail" src="images/associates/noel.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/parthremedies.png" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/pfizer.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/ranbaxy.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/suraksha.png" alt="">
+            </div>
+            </div>
+        <br/>
+          <div class="row">
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/unichem.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/univentis.jpg" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/villsunlab.png" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/wockhardt.png" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/zenlabs.png" alt="">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6">
+                <img class="img-responsive img-thumbnail" src="images/associates/zuventus.jpg" alt="">
             </div>
         </div>
-		<br/>
+        <br/>
         <!--
         <div class="row">
         	<div class="col-sm-offset-8 col-md-offset-10 col-xs-offset-6 col-md-2 col-sm-4 col-xs-6">
