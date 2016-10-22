@@ -3,7 +3,7 @@
         <!-- Footer -->
 		<div class="navbar navbar-inverse">
 			<div class="container">				
-				<p class="navbar-text pull-left">Powered by <a href="https://www.winsagetech.com">Winsage Technologies Pvt Ltd</a></p>
+				<p class="navbar-text pull-left">Powered by <a href="http://www.winsagetech.com">Winsage Technologies Pvt Ltd</a></p>
 				<p class="navbar-text pull-right">
 					<ul class="list-unstyled list-inline list-social-icons pull-right navbar-text">
 						<li>

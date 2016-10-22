@@ -144,7 +144,7 @@
             </div>
         </div>
         <br/>
-        <div class="row">
+          <div class="row">
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive img-thumbnail" src="images/associates/concept.jpg" alt="">
             </div>
@@ -227,7 +227,7 @@
                 <img class="img-responsive img-thumbnail" src="images/associates/zuventus.jpg" alt="">
             </div>
         </div>
-        <br/>
+		<br/>
         <!--
         <div class="row">
         	<div class="col-sm-offset-8 col-md-offset-10 col-xs-offset-6 col-md-2 col-sm-4 col-xs-6">

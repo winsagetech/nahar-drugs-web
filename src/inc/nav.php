@@ -4,10 +4,10 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
             	<a class="navbar-brand" href="index.php">
-					<img class="img-responsive img-portfolio img-hover" id="logo" src="images/logos/logo.png" alt="Nahar Drugs">
+					<img class="img-responsive img-portfolio img-hover"  id="logo" src="images/logos/logo.png" alt="Nahar Drugs">
 				</a>
-				<a class="navbar-brand" href="index.php" style="background-color: white;">
-					<b>Nahar Drugs</b>
+				<a class="navbar-brand" href="index.php" style="background-color: white;color:#ED5441">
+					<b>Nahar Drugs</b><small><sub> Distributor<sub></small>
 					<p style="color: lightgray;"><small><sup>Distributing Health...</sup></small></p>
 				</a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
