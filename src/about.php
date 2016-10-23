@@ -44,107 +44,107 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/abbott.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/abbott.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/alkem.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/alkem.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-             <div class="col-md-2 col-sm-4 col-xs-6">
-                 <img class="img-responsive img-thumbnail" src="images/associates/biochem.gif" alt="">
+             <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                 <img class="img-responsive img-thumbnail" src="images/associates/biochem.gif" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/Cadila.jpg" alt="">
+             <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/Cadila.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-             <div class="col-md-2 col-sm-4 col-xs-6">
-                 <img class="img-responsive img-thumbnail" src="images/associates/CareFormulationLabs.png" alt="">
+             <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                 <img class="img-responsive img-thumbnail" src="images/associates/CareFormulationLabs.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/cipla.jpg" alt="">
+             <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/cipla.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
         </div>
         <br/>
         <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/concept.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/concept.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/fruiton.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/fruiton.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/galpha.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/galpha.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/gemmankind.png" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/gemmankind.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/glenmark.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/glenmark.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                 <img class="img-responsive img-thumbnail" src="images/associates/Intas.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                 <img class="img-responsive img-thumbnail" src="images/associates/Intas.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
          </div>
         <br/>
           <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/laborate.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/laborate.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/leaford.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/leaford.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/lupin.jpeg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/lupin.jpeg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/mankind.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/mankind.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/medley.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/medley.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/microlabs.png" alt="">
-            </div>
-            </div>
-        <br/>
-          <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/morepen.png" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/noel.jpg" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/parthremedies.png" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/pfizer.jpg" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/ranbaxy.jpg" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/suraksha.png" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/microlabs.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
             </div>
         <br/>
           <div class="row">
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/unichem.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/morepen.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/univentis.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/noel.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/villsunlab.png" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/parthremedies.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/wockhardt.png" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/pfizer.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/zenlabs.png" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/ranbaxy.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive img-thumbnail" src="images/associates/zuventus.jpg" alt="">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/suraksha.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            </div>
+        <br/>
+          <div class="row">
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/unichem.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/univentis.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/villsunlab.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/wockhardt.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/zenlabs.png" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6" style="padding-bottom: 4px;">
+                <img class="img-responsive img-thumbnail" src="images/associates/zuventus.jpg" alt="" style="width: 200px;height: 100px;border: 1px solid #ED5441;border-radius: 20px;">
             </div>
         </div>
         <br/>
