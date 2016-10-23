@@ -12,7 +12,7 @@ class Db {
 			self::$connection = new mysqli($config['host'],$config['username'],$config['password'],$config['dbname']);
 		}	
 		
-		if(self::$connection === false) {			
+		if(self::$connection === false) {	
 			return false;
 		}
 

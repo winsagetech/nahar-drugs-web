@@ -27,7 +27,7 @@
                         <h3 class="panel-title">Please Sign In</h3>
                     </div>
                     <div class="panel-body">
-                        <form method="post" id="loginform" action="" role="form">
+                        <form method="post" id="loginform" action="loginCheck.php" role="form">
                             <fieldset>
                                 <div class="form-group">
                                     <input class="form-control" placeholder="User Name" id="uname" name="userName" type="text" autofocus>
@@ -35,7 +35,7 @@
                                 <div class="form-group">
                                     <input class="form-control" placeholder="Password" id="pass" name="password" type="password" value="">
 								</div>
-                            	<button type="button" id="loginbtn" class="btn btn-lg btn-success btn-block">Login</button>
+                            	<button type="submit" id="loginbtn" class="btn btn-lg btn-success btn-block">Login</button>
                             </fieldset>
 							<input type="hidden" name="formStatus" value="submit" />
                         </form>

@@ -29,7 +29,7 @@
                 <img class="img-responsive" src="images/about_company.jpg" alt="">
             </div>
             <div class="col-md-6">
-                <h2>Nahar Drug
+                <h2 class="page-header">Nahar Drug
                 <small>The Company</small></h2>
                 <p>Nahar Drug is amongst one of the fastest emerging pharmaceutical organizations of repute from India and has attained an iconic stature in pharmaceutical arena making the lives of millions of people feel good. We emerged to become the premier Pharmaceutical distributor in Bhilwara, Rajasthan by virtue of its excellent distribution network in the city catering to top Indian and Multinational companies across the country. <br>
 				Along with strategically prominent marketing nodes the world over, Nahar Drug gives the edge to be self-sustained in effectively delivering our vast range of products across various geographies in Rajasthan. It also serves to fulfil our commitment to deliver "beyond the maxim of care".
@@ -160,7 +160,7 @@
         <br />
 	
 		<div class="col-md-6" id="history">
-			<h2>Our History
+			<h2 class="page-header">Our History
 			<small>The Journey</small></h2>
 		</div>
 		<div id="timeline" class="row">
@@ -215,7 +215,7 @@
 		
 			<div class="row">
             <div class="col-md-12" id="vision">
-            	<h2>Vision & Mission
+            	<h2 class="page-header">Vision & Mission
     			<small>Our Beliefs</small></h2>
     			<div class="col-md-4 col-sm-12">
                 <div class="panel panel-info text-center">
@@ -293,7 +293,7 @@
 
 		<div class="row">
             <div class="col-lg-12">
-			<h2 id="leadership">Our Leadership
+			<h2 id="leadership" class="page-header">Our Leadership
     			<small>The founders</small></h2>
     		<div class="col-md-6 text-center">
                 <div class="thumbnail">

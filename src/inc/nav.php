@@ -64,9 +64,6 @@
                             </li>
 						</ul>
                     </li> 
-                    <li>
-                        <a href="career.php">Career</a>
-                    </li>
 					<li>
                         <a href="contact.php">Contact</a>
                     </li>

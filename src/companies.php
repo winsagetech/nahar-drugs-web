@@ -38,24 +38,21 @@
 
                                 
 					$db = new Db();
-                                        if (!$db) { 
-                                        die('Could not connect: ' . mysql_error()); 
-                                        }
+                        if (!isset($db)) { 
+                        die('Could not connect: ' . mysql_error()); 
+                    } 
 
- 
+                    $sql = "SELECT * FROM manufacturers";
+                    $result = $db->query($sql);
 
-$sql = "SELECT * FROM manufacturers";
-$result = $db->query($sql);
-
-if ($result->num_rows > 0) {
-    // output data of each row
-    while($row = $result->fetch_assoc()) {
-       echo '<tr><td align="center">' . $row["id"] . '</td><td align="center"><a href="products.php?mfac_code=' . $row["id"] . '">' . $row["name"] . '</a></td></tr>' ;						
-    }
-} else {
-    echo "0 results";
-}
-$conn->close();
+                    if ($result->num_rows > 0) {
+                        // output data of each row
+                        while($row = $result->fetch_assoc()) {
+                           echo '<tr><td align="center">' . $row["id"] . '</td><td align="center"><a href="products.php?mfac_code=' . $row["id"] . '">' . $row["name"] . '</a></td></tr>' ;						
+                        }
+                    } else {
+                        echo "0 results";
+                    }
 				
 				?>		
 	            
