@@ -61,9 +61,9 @@
                             </li>
 						</ul>
                     </li> 
-                    <li>
+                    <!--li>
                         <a href="career.php">Career</a>
-                    </li>
+                    </li-->
 					<li>
                         <a href="contact.php">Contact</a>
                     </li>
