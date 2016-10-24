@@ -43,7 +43,7 @@
                     Nahar Drug<br># 7, Seva Sadan Road<br>Bhilwara (Raj)
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: (01482) 222877, (+91) 946238972</p>
+                    <abbr title="Phone">P</abbr>: (01482) 222877, (+91) 9462239072</p>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">E</abbr>: <a href="mailto:info@nahardrugs.com">info@nahardrugs.com</a>
                 </p>                

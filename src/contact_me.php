@@ -12,10 +12,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-    $recipient = "info@mahaveersales.com";
+    $recipient = "info@nahardrugs.com";
 
         // Set the email subject.
-    $subject = "Mahaveer Sales Website contact from: $name";
+    $subject = "Nahar Drugs Website contact from: $name";
 
         // Build the email content.
     $email_content = "Name: $name\n";
