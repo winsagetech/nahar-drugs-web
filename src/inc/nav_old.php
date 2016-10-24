@@ -4,12 +4,13 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
             	<a class="navbar-brand" href="index.php">
-					<img class="img-responsive img-portfolio img-hover" id="logo" src="images/logos/logo.png" alt="Nahar Drugs">
+					<img class="img-responsive img-portfolio img-hover"  id="logo" src="images/logos/logo.png" alt="Nahar Drugs">
 				</a>
 				<a class="navbar-brand" href="index.php" style="background-color: white;color:#ED5441">
 					<b>Nahar Drugs</b><small><sub> Distributor<sub></small>
 					<p style="color: lightgray;"><small><sup>Distributing Health...</sup></small></p>
-				</a>                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -19,7 +20,7 @@
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right" >
+                <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown">
                         <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -38,7 +39,9 @@
                             <li>
                                 <a href="about.php#leadership">Leadership</a>
                             </li>
-                           														
+                            <li>
+		                        <a href="about.php#infrastructure">Infrastructure</a>
+		                    </li>														
                         </ul>
                     </li>
 					<li>
@@ -61,9 +64,6 @@
                             </li>
 						</ul>
                     </li> 
-                    <!--li>
-                        <a href="career.php">Career</a>
-                    </li-->
 					<li>
                         <a href="contact.php">Contact</a>
                     </li>

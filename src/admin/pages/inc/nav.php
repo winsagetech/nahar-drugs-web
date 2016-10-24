@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Nahar Drugs - Admin Panel</a>
+                <a class="navbar-brand" href="index.php" style="color: #ED5441">Nahar Drugs - Admin Panel</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -41,7 +41,7 @@
                             <a href="view.php"><i class="fa fa-bar-chart-o fa-fw"></i> View</a>
                         </li>
                         <li>
-                            <a href="edit.php"><i class="fa fa-edit fa-fw"></i> Edit</a>
+                            <a href="edit.php"><i class="fa fa-edit fa-fw"></i> Add </a>
                         </li>
                      </ul>
                 </div>

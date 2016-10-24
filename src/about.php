@@ -297,7 +297,7 @@
     			<small>The founders</small></h2>
     		<div class="col-md-6 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive img-rounded" src="images/x.jpg" alt="">
+                    <img class="img-responsive img-rounded" src="images/x.jpg" alt="" style="width: 200px;height: 200px">
                     <div class="caption">
                         <h3>Jabbar Singh Nahar<br>
                             <small>Founder</small>
@@ -318,7 +318,7 @@ His beliefs are “Keep your employees happy, they will keep you happy”; </p>
             </div>
             <div class="col-md-6 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive img-rounded" src="images/y.jpg" alt="">
+                    <img class="img-responsive img-rounded" src="images/y.jpg" alt="" style="width: 200px;height: 200px">
                     <div class="caption">
                         <h3>Deepak Nahar<br>
                             <small>Co-Founder</small>
