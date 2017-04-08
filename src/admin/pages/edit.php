@@ -4,10 +4,21 @@
         header("Location: ../../login.php");
 ?>
 <!DOCTYPE html>
+<?php
+        include_once("../../db.php"); 
+?>
+<!DOCTYPE html>
 <html lang="en">
     <?php
         include_once("inc/header.php"); 
     ?>
+<?php
+            $db = new Db();
+                if (!isset($db)) { 
+                die('Could not connect: ' . mysql_error()); 
+            }
+        ?>
+
     <!-- page-wrapper -->
     <div id="page-wrapper">
         <div class="row">
@@ -44,9 +55,9 @@
                                         <div class="panel-body">
                                             <form role="form" method="post" action="addClient.php">
                                                 <fieldset>
-                                                    <div class="form-group">
+                                                    <!--div class="form-group">
                                                         <input class="form-control" placeholder="Client ID" name="id" type="number" autofocus>
-                                                    </div>
+                                                    </div-->
                                                     <div class="form-group">
                                                         <input class="form-control" placeholder="Name" name="name" type="text" value="">
                                                     </div> 
@@ -70,9 +81,9 @@
                                         <div class="panel-body">
                                             <form role="form" method="post" action="addCompany.php">
                                                 <fieldset>
-                                                    <div class="form-group">
+                                                    <!--div class="form-group">
                                                         <input class="form-control" placeholder="Comp ID" name="id" type="number" autofocus>
-                                                    </div>
+                                                    </div-->
                                                     <div class="form-group">
                                                         <input class="form-control" placeholder="Name" name="name" type="text" value="">
                                                     </div> 
@@ -96,7 +107,26 @@
                                             <form role="form" method="post" action="addProduct.php">
                                                 <fieldset>
                                                     <div class="form-group">
-                                                        <input class="form-control" placeholder="Company ID" name="id" type="number" autofocus>
+                                                        <!--input class="form-control" placeholder="Company ID" name="id" type="number" autofocus-->
+
+							<select name="id" type="number" autofocus class="form-control">
+							<?php                                            
+                                            			$sql = "SELECT * FROM manufacturers";
+                                           			 $result = $db->query($sql);
+                                           
+                                          		if ($result->num_rows > 0) {
+                                                		// output data of each row
+                                                		while($row = $result->fetch_assoc()) {
+                                                        	                                      
+                                                             		echo '<option value="' . $row["id"] . '">' . $row["name"] . '</option>';
+                                                          	  }
+                                            		} else {
+                                                		echo "0 results";
+                                            		}                                        
+                                          	      ?>     
+
+
+							</select>	
                                                     </div>
                                                     <div class="form-group">
                                                         <input class="form-control" placeholder="Name" name="name" type="text" value="">

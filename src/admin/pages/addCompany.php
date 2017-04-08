@@ -9,7 +9,7 @@
     $id = trim($_POST['id']);
     $name = trim($_POST['name']);
   
-    $result = $db->query("INSERT INTO `manufacturers` (`id`, `name`) VALUES ('$id', '$name')");
+    $result = $db->query("INSERT INTO `manufacturers` (`name`) VALUES ( '$name')");
 
     if($result === false) {
        

@@ -10,7 +10,7 @@
     $name = trim($_POST['name']);
     $addr = trim($_POST['addr']);
   
-    $result = $db->query("INSERT INTO `clients` (`id`, `name`, `addr`) VALUES ('$id', '$name', '$addr')");
+    $result = $db->query("INSERT INTO `clients` (`name`, `addr`) VALUES ('$name', '$addr')");
 
     if($result === false) {
         echo '<script> alert("Cannot add Product. Please try again later..! Insert failed...");</script>';

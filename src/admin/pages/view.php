@@ -124,7 +124,7 @@
                                 <table width="100%" class="table table-striped table-bordered table-hover" id="dataTables-products">
                                     <thead>
                                         <tr>
-                                            <th>Company ID</th>
+                                            <th>Company Name</th>
                                             <th>Product Name</th>
                                         </tr>
                                     </thead>
@@ -134,7 +134,7 @@
                                                 $mfac_code = $_GET["mfac_code"];
                                                 $query = "SELECT * FROM `products` WHERE `compID` = $mfac_code";                
                                             } else {
-                                                $query = "SELECT * FROM `products`";
+                                                $query = "SELECT  `products`.`name` as pname,  `manufacturers`.`name` as mname FROM products, manufacturers where `products`.`compID`=`manufacturers`.`id`";
                                             }                                            
                                             $result = $db->query($query);
                                             $count = 0;
@@ -148,8 +148,8 @@
                                                         echo '<tr class="odd">';
                                                         $count = 0;
                                                     }                                            
-                                                        echo '<td>' . $row["compID"] . '</td>';
-                                                        echo '<td>' . $row["name"] . '</td>';
+                                                        echo '<td>' . $row["mname"] . '</td>';
+                                                        echo '<td>' . $row["pname"] . '</td>';
                                                     echo '</tr>';                                                                        
                                                 }
                                             } else {
